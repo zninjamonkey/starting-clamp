@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.75h | 4 |
+| Week 2 | Tier 1 | 11h | 4 |
 
 ## Contents
 
@@ -86,7 +86,7 @@ Finished assembly and constraints
 
 ### 2026-10-17 – Finalized project
 
-**1.75h**
+**2h**
 
 Finalized project
 
