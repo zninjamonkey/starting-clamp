@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.72h | 4 |
+| Week 2 | Tier 1 | 10.75h | 4 |
 
 ## Contents
 
 1. [2026-10-14 – ## Began CADing for Starting Clamp Project](#2026-10-14-began-cading-for-starting-clamp-project)
 2. [2026-10-15 – finished modeling all pieces and started an assembly](#2026-10-15-finished-modeling-all-pieces-and-started-an-assem)
 3. [2026-10-17 – Finished assembly and constraints](#2026-10-17-finished-assembly-and-constraints)
-4. [2026-10-17 – Work session](#2026-10-17-work-session)
+4. [2026-10-17 – Finalized project](#2026-10-17-finalized-project)
 
 ## Design
 
@@ -84,8 +84,10 @@ Finished assembly and constraints
 
 [Timelapse](https://lookout.hackclub.com/api/media/6f5e6fb8-0090-46e3-beb5-f34afcfd0139/video.mp4)
 
-### 2026-10-17 – Work session
+### 2026-10-17 – Finalized project
 
-**1.72h**
+**1.75h**
+
+Finalized project
 
 [Timelapse](https://lookout.hackclub.com/api/media/0c74bc9b-e223-4af2-8135-96ae9cc9ce2b/video.mp4)
